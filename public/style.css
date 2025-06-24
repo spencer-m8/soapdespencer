@@ -4,8 +4,8 @@
 
 body {
   background-image: url("./img/catonkeyboard.jpg"); 
-  background-repear: no-repeat;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 10%;
   background-attachment: fixed;
-  font-family: Verdana;
+  font-family: Times New Roman;
 }
