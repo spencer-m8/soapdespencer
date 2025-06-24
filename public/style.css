@@ -3,7 +3,9 @@
    "how to change link color." */
 
 body {
-  background-image: url("./img/catonkeyboard.jpg");
-  color: black;
+  background-image: url("./img/catonkeyboard.jpg"); 
+  background-repear: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   font-family: Verdana;
 }
