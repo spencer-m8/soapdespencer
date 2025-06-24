@@ -14,7 +14,7 @@ jobs:
     # The checkout step copies your repo into the action runner. Important!
     - uses: actions/checkout@v4
     - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v4
+      uses: bcomnes/deploy-to-neocities@v3
       with:
         api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
         cleanup: false
